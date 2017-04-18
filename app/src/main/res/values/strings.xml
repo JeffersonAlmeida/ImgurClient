@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Amgur</string>
+
+    <string name="title_linear">Linear</string>
+    <string name="title_grid">Grid</string>
+    <string name="title_staggered">Staggered</string>
+
+    <string name="about" formatted="false">Author: %s\nVersion: %s</string>>
+    <string name="dev" translatable="false">Jefferson Almeida</string>
+    <string name="content_desc_imagem">imagem</string>
+    <string name="home_activity_about">About</string>
+    <string name="home_activity_nice">Nice</string>
+    <string name="hot">Hot</string>
+    <string name="sort">sort</string>
+    <string name="main_menu_about">about</string>
+    <string name="filter_dialog_title">Choose Imgur Results</string>
+    <string name="filter_dialog_go">go!</string>
+    <string name="filter_dialog_cancel">cancel</string>
+
+</resources>
